@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "My new website",
+      "body": "Loreum ipsum...",
+      "author": "mario"
+    },
+    {
+      "id": "2",
+      "title": "Welcome party!",
+      "body": "Loreum ipsum...",
+      "author": "luigi"
+    },
+    {
+      "id": "3",
+      "title": "Web dev top tips",
+      "body": "Loreum ipsum...",
+      "author": "mario"
+    },
+    {
+      "id": "9873",
+      "title": "My Homies Homie",
+      "body": "gugkhvkuygiuyouyvouyuoygoduchbosduygosuycgouysbcjkshbusygouysgcosiuoyug",
+      "author": "yoshi"
+    },
+    {
+      "id": "a69d",
+      "title": "My Blogosphere",
+      "body": "lijhfoaiusghfosdiufhaodsiufhadosivuhadpviudv",
+      "author": "mario"
+    }
+  ]
+}
